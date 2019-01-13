@@ -1,0 +1,20 @@
+var univ_list = {
+    school: "南华大学",
+    id: "13101",
+    link: [ {
+        name: "南华主页",
+        url: "http://www.usc.edu.cn/"
+    }, {
+        name: "教务在线",
+        url: "http://jwzx.usc.edu.cn/"
+    }, {
+        name: "图书馆",
+        url: "http://tsg.usc.edu.cn/"
+    }, {
+        name: "阳光在线",
+        url: "http://nhedu.beone2009.com/"
+    },{
+        name: "网络课堂",
+        url: "http://usc.fanya.chaoxing.com/portal"
+    },  ]
+};
